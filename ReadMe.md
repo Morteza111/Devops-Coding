@@ -11,3 +11,5 @@ GitOps: Git-based workflows for managing infrastructure and applications.
 Infrastructure as Code (IaC): Automating infrastructure using code.
 OpenStack: Creating and managing scalable cloud resources.
 Ceph: Distributed storage solutions for high availability and resilience.
+
+dsfgsdgsdfgsdg
